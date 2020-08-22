@@ -1,8 +1,6 @@
 import React from 'react';
 import {ContentStyle} from './styles';
 import {FiAward} from 'react-icons/fi';
-
-import SquareIcon from '../../assets/square-icon.svg';
 import {DataExperience} from '../../data/luis';
 
 interface ContentDescription{

@@ -5,7 +5,6 @@ import {
   Content,
   Header,
   About,
-  Achievements,
   Experience,
   Formation,
   Main,
